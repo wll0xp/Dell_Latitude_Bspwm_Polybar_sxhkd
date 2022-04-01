@@ -1,0 +1,1 @@
+Dell_Latitude_Bspwm_Polybar_sxhkd
